@@ -110,13 +110,13 @@ $$
 Below are examples of the inpainting results on masked images:
 
 <div align="center">
-  <img src="images/inpainting_grayscale1.png" alt="Grayscale Inpainting 1" width="45%">
-  <img src="images/inpainting_grayscale2.png" alt="Grayscale Inpainting 2" width="45%">
+  <img src="images/2.png" alt="Grayscale Inpainting 1" width="25%">
+  <img src="images/2_inpaint.png" alt="Grayscale Inpainting 2" width="25%">
 </div>
 
 <div align="center">
-  <img src="images/inpainting_color1.png" alt="Color Inpainting 1" width="45%">
-  <img src="images/inpainting_color2.png" alt="Color Inpainting 2" width="45%">
+  <img src="images/11.png" alt="Color Inpainting 1" width="25%">
+  <img src="images/11_inpaint.png" alt="Color Inpainting 2" width="25%">
 </div>
 
 ---
