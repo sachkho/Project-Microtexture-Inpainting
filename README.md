@@ -32,8 +32,15 @@ $$
 Below are examples of grayscale micro-texture synthesis:
 
 <div align="center">
-  <img src="images/microtexture1.png" alt="Original micro-texture" width="45%">
-  <img src="images/microtexture1 synth.png" alt="ADSN Grayscale Result" width="45%">
+  <figure>
+    <img src="images/microtexture1.png" alt="Original micro-texture" width="25%">
+    <figcaption>Original Micro-Texture</figcaption>
+  </figure>
+
+  <figure>
+    <img src="images/microtexture1 synth.png" alt="ADSN Grayscale Result" width="25%">
+    <figcaption>ADSN Grayscale Result</figcaption>
+  </figure>
 </div>
 
 ---
@@ -44,11 +51,18 @@ For color images, $d = 3$, and the same Gaussian filter is applied across all ch
 #### **Results: Color Synthesis**
 Below are examples of color micro-texture synthesis:
 
-<div align="center">
-  <img src="images/adsn_color1.png" alt="ADSN Color Result 1" width="45%">
-  <img src="images/adsn_color2.png" alt="ADSN Color Result 2" width="45%">
-</div>
 
+<div align="center">
+  <figure>
+    <img src="images/bois.png" alt="Original micro-texture" width="25%">
+    <figcaption>Original Micro-Texture</figcaption>
+  </figure>
+
+  <figure>
+    <img src="images/bois synth.png" alt="ADSN Colour Result" width="25%">
+    <figcaption>ADSN Grayscale Result</figcaption>
+  </figure>
+</div>
 ---
 
 ### **2. Conditioning with Kriging**
