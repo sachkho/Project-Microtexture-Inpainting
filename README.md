@@ -32,8 +32,8 @@ $$
 Below are examples of grayscale micro-texture synthesis:
 
 <div align="center">
-  <img src="images/adsn_grayscale1.png" alt="ADSN Grayscale Result 1" width="45%">
-  <img src="images/adsn_grayscale2.png" alt="ADSN Grayscale Result 2" width="45%">
+  <img src="images/microtexture1.png" alt="Original micro-texture" width="45%">
+  <img src="images/microtexture1 synth.png" alt="ADSN Grayscale Result" width="45%">
 </div>
 
 ---
