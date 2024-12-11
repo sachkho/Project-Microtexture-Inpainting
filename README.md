@@ -77,8 +77,15 @@ $$
 The following images demonstrate the continuity achieved through Kriging-based conditioning:
 
 <div align="center">
-  <img src="images/kriging1.png" alt="Kriging Result 1" width="45%">
-  <img src="images/kriging2.png" alt="Kriging Result 2" width="45%">
+  <figure>
+    <img src="images/kringing_masked.png" alt="Original micro-texture" width="25%">
+    <figcaption>Masked Micro-texture</figcaption>
+  </figure>
+
+  <figure>
+    <img src="images/kringing.png" alt="ADSN Colour Result" width="25%">
+    <figcaption>Kriging component</figcaption>
+  </figure>
 </div>
 
 ---
@@ -90,14 +97,6 @@ The covariance matrix $\Gamma$ is derived from the auto-covariance function $c_v
 $$
 \Gamma((i, k), (j, l)) = c_v(j - i, l - k).
 $$
-
-#### **Results: Covariance Matrix**
-Below is a visualization of the covariance matrix for a sample image:
-
-<div align="center">
-  <img src="images/covariance_matrix1.png" alt="Covariance Matrix 1" width="45%">
-  <img src="images/covariance_matrix2.png" alt="Covariance Matrix 2" width="45%">
-</div>
 
 ---
 
