@@ -1,4 +1,4 @@
-# Inpainting of Micro-Textures
+# Microtexture Inpainting
 
 ## Overview
 This project focuses on **micro-texture inpainting**, where missing parts of an image are reconstructed using stochastic modeling techniques. Micro-textures, which lack strong geometric patterns, can be effectively modeled as **Gaussian random fields**, enabling their synthesis through probabilistic methods.
